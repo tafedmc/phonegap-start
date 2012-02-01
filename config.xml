@@ -4,15 +4,16 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>PhoneGap: Getting Started - TAFE DMC</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A template for getting started with PhoneGap development and build.phonegap.com<br/>
+		This example is a copy of the phonegap getting started sample
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://www.tfensw.edu.au/nsi/"
+		email="david.bartolo@tafensw.edu.au">
+		David Bartolo/Michal Sarroff
 	</author>
 
 	<gap:platforms>
